@@ -50,6 +50,7 @@ Thumbs.db
 
 # Project specific
 *.mp3
+*.zip
 /tmp/
 
 TESTING_GUIDE.md
